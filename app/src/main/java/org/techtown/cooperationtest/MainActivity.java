@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-
+    // A 개발자가 B 개발자에게 보냄
 
 }
